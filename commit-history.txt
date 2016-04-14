@@ -387,3 +387,4 @@ Commit 386: Clean up codebase - 2025-04-06T11:40:50.357Z
 Commit 387: Clean up codebase - 2025-04-06T11:40:50.383Z
 Commit 388: Fix typo - 2025-04-06T11:40:50.410Z
 Commit 389: Fix minor issues - 2025-04-06T11:40:50.436Z
+Commit 390: Update documentation - 2025-04-06T11:40:50.462Z
