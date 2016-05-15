@@ -503,3 +503,4 @@ Commit 502: Fix minor issues - 2025-04-06T11:40:56.614Z
 Commit 503: Add new feature - 2025-04-06T11:40:56.647Z
 Commit 504: Add new feature - 2025-04-06T11:40:56.676Z
 Commit 505: Fix minor issues - 2025-04-06T11:40:56.703Z
+Commit 506: Update documentation - 2025-04-06T11:40:56.730Z
