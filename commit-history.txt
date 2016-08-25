@@ -895,3 +895,4 @@ Commit 894: Remove deprecated code - 2025-04-06T11:41:15.523Z
 Commit 895: Remove deprecated code - 2025-04-06T11:41:15.552Z
 Commit 896: Update project files - 2025-04-06T11:41:15.582Z
 Commit 897: Fix typo - 2025-04-06T11:41:15.611Z
+Commit 898: Update documentation - 2025-04-06T11:41:15.640Z
