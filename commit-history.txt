@@ -1228,3 +1228,4 @@ Commit 1227: Fix minor issues - 2025-04-06T11:41:32.747Z
 Commit 1228: Update documentation - 2025-04-06T11:41:32.775Z
 Commit 1229: Fix minor issues - 2025-04-06T11:41:32.802Z
 Commit 1230: Fix typo - 2025-04-06T11:41:32.829Z
+Commit 1231: Remove deprecated code - 2025-04-06T11:41:32.857Z
