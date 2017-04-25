@@ -1588,3 +1588,4 @@ Commit 1587: Remove deprecated code - 2025-04-06T11:41:50.927Z
 Commit 1588: Clean up codebase - 2025-04-06T11:41:50.955Z
 Commit 1589: Update project files - 2025-04-06T11:41:50.983Z
 Commit 1590: Remove deprecated code - 2025-04-06T11:41:51.010Z
+Commit 1591: Optimize algorithm - 2025-04-06T11:41:51.038Z
