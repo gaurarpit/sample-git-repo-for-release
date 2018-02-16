@@ -14,3 +14,4 @@ Commit 13: Add new feature - 2025-04-06T11:39:22.522Z
 Commit 14: Add new feature - 2025-04-06T11:39:22.556Z
 Commit 15: Update project files - 2025-04-06T11:39:22.590Z
 Commit 16: Update documentation - 2025-04-06T11:39:22.620Z
+Commit 17: Clean up codebase - 2025-04-06T11:39:22.649Z
