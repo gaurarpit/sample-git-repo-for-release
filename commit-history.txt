@@ -3985,3 +3985,4 @@ Commit 3984: Clean up codebase - 2025-04-06T11:43:53.149Z
 Commit 3985: Update documentation - 2025-04-06T11:43:53.177Z
 Commit 3986: Update project files - 2025-04-06T11:43:53.206Z
 Commit 3987: Update documentation - 2025-04-06T11:43:53.234Z
+Commit 3988: Refactor code - 2025-04-06T11:43:53.262Z
