@@ -4,7 +4,8 @@
     "description": "A sample Git repository for release",
    
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "build": "echo `hi`"
     },
     "author": "Arpit",
     "license": "MIT"
