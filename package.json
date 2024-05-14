@@ -1,0 +1,12 @@
+{
+    "name": "sample-git-repo-for-release",
+    "version": "1.0.0",
+    "description": "A sample Git repository for release",
+   
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Arpit",
+    "license": "MIT"
+    
+}
